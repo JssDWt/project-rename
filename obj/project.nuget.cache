@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2quKwCUc6ItYEK91rMOjvHK2Dx0YmyW9ZmmT3NOC92sm/6JTugp4zkhp0yC9aWsU1shbwbhPkuK7krkd2tH1Fw==",
+  "success": true,
+  "projectFilePath": "/Users/jessedewit/Projects/ProjectRename/ProjectRename.csproj",
+  "expectedPackageFiles": [
+    "/Users/jessedewit/.nuget/packages/commandlineparser/2.7.82/commandlineparser.2.7.82.nupkg.sha512"
+  ],
+  "logs": []
+}

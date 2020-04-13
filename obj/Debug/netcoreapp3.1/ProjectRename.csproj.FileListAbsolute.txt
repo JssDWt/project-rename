@@ -1,0 +1,14 @@
+/Users/jessedewit/Projects/ProjectRename/bin/Debug/netcoreapp3.1/ProjectRename.deps.json
+/Users/jessedewit/Projects/ProjectRename/bin/Debug/netcoreapp3.1/ProjectRename.runtimeconfig.json
+/Users/jessedewit/Projects/ProjectRename/bin/Debug/netcoreapp3.1/ProjectRename.runtimeconfig.dev.json
+/Users/jessedewit/Projects/ProjectRename/bin/Debug/netcoreapp3.1/ProjectRename.dll
+/Users/jessedewit/Projects/ProjectRename/bin/Debug/netcoreapp3.1/ProjectRename.pdb
+/Users/jessedewit/Projects/ProjectRename/obj/Debug/netcoreapp3.1/ProjectRename.csprojAssemblyReference.cache
+/Users/jessedewit/Projects/ProjectRename/obj/Debug/netcoreapp3.1/ProjectRename.csproj.CoreCompileInputs.cache
+/Users/jessedewit/Projects/ProjectRename/obj/Debug/netcoreapp3.1/ProjectRename.AssemblyInfoInputs.cache
+/Users/jessedewit/Projects/ProjectRename/obj/Debug/netcoreapp3.1/ProjectRename.AssemblyInfo.cs
+/Users/jessedewit/Projects/ProjectRename/obj/Debug/netcoreapp3.1/ProjectRename.dll
+/Users/jessedewit/Projects/ProjectRename/obj/Debug/netcoreapp3.1/ProjectRename.pdb
+/Users/jessedewit/Projects/ProjectRename/obj/Debug/netcoreapp3.1/ProjectRename.genruntimeconfig.cache
+/Users/jessedewit/Projects/ProjectRename/bin/Debug/netcoreapp3.1/CommandLine.dll
+/Users/jessedewit/Projects/ProjectRename/obj/Debug/netcoreapp3.1/ProjectRename.csproj.CopyComplete
